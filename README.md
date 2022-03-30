@@ -34,6 +34,7 @@ _____________
 6. Paste the copied settings.
 7. Then click **Import**.
 8. You've succesfully enabled very high shaders, congrats! Your FPS may drop because of these, however.
+9. Source: [Source](https://github.com/afkvido/krunker/blob/main/README.md#wheres-the-source-of-the-shadershud-who-made-these)
 
 ## Ultimate Performance
 
@@ -45,6 +46,7 @@ _____________
 6. Paste the copied settings.
 7. Then click **Import**.
 8. You've succesfully made your graphics very fast, congrats! Your Render quality may drop because of this, however.
+9. Source: [Source](https://github.com/afkvido/krunker/blob/main/README.md#wheres-the-source-of-the-shadershud-who-made-these)
 
 
 
