@@ -14,7 +14,7 @@ _____________
 6. Click **Confirm Installation**. ([Hack Source](https://github.com/y9x/userscripts))
 7. Click **Close**.
 8. Open the **TouchVPN** extension
-9. Click **Connect**.
+9. Click **Connect**, then wait until you're connected to the VPN.
 10. Now, go to Krunker. ([Krunker](https://krunker.io)) ([Krunker Unblocked](https://browserfps.com/))
 11. Click **Settings**.
 12. In the Settings menu, click **Cheats**.
