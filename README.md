@@ -39,5 +39,12 @@ _____________
 
 ## Ultimate Performance
 
-1. 
+1. Go to [/ultimateperformance.json](https://github.com/afkvido/krunker/blob/main/ultimateperformance.json).
+2. Click the **Copy** button.
+3. Go to Krunker. ([Krunker](https://krunker.io)) ([Krunker Unblocked](https://browserfps.com/))
+4. Click **Settings**.
+5. In the Settings menu, click Import Settings.
+6. Paste the copied settings.
+7. Then click **Import**.
+8. You've succesfully made your graphics very fast, congrats! Your Render quality may drop because of this, however.
 
