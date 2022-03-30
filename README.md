@@ -11,7 +11,7 @@ _____________
 3. Install the ViolentMonkey extension on your second chrome profile ([ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag))
 4. Go here: https://github.com/afkvido/krunker/raw/main/hacks.user.js
 5. ViolentMonkey should redirect you to the userscript installation.
-6. Click **Confirm Installation**. ([Hack Source](https://github.com/y9x/userscripts))
+6. Click **Confirm Installation**. ([Hack Source](https://github.com/afkvido/krunker#wheres-the-source-of-the-hacks-who-made-them))
 7. Click **Close**.
 8. Open the **TouchVPN** extension
 9. Click **Connect**, then wait until you're connected to the VPN.
