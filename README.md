@@ -58,7 +58,11 @@ Ultimate Shaders really is resource intensive, so I'd reccomend using Ultimate P
 
 #### Where's the source of the Shaders/HUD? Who made these?
 Shaders and HUD were designed by [gemsvidø](https://github.com/afkvido).
-These are just Krunker settings made in Krunker, just exported into json.
+These are really just Krunker settings made on krunker.io, just exported into json.
+
+Ultimate Shaders source: [/ultimateshaders.json](https://github.com/afkvido/krunker/blob/main/ultimateshaders.json)
+
+Ultimate Performance source: [/ultimateperformance.json](https://github.com/afkvido/krunker/blob/main/ultimateperformance.json)
 <br/><br/><br/>
 
 ## Hacks
