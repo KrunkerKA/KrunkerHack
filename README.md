@@ -12,7 +12,7 @@ _____________
 4. Go here: https://github.com/afkvido/krunker/raw/main/hacks.user.js
 5. ViolentMonkey should redirect you to the userscript installation.
 6. Click **Confirm Installation**. ([Hack Source](https://github.com/y9x/userscripts))
-7. Click **Save and Close**.
+7. Click **Close**.
 8. Open the **TouchVPN** extension
 9. Click **Connect**.
 10. Now, go to Krunker. ([Krunker](https://krunker.io)) ([Krunker Unblocked](https://browserfps.com/))
