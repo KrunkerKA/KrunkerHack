@@ -28,5 +28,16 @@ _____________
 
 ## Ultimate Shaders
 
+1. Go to [/ultimateshaders.json](https://github.com/afkvido/krunker/blob/main/ultimateshaders.json).
+2. Click the **Copy** button.
+3. Go to Krunker. ([Krunker](https://krunker.io)) ([Krunker Unblocked](https://browserfps.com/))
+4. Click **Settings**.
+5. In the Settings menu, click Import Settings.
+6. Paste the copied settings.
+7. Then click **Import**.
+8. You've succesfully enabled very high shaders, congrats! Your FPS may drop because of these, however.
+
 ## Ultimate Performance
+
+1. 
 
