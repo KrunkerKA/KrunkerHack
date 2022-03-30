@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Krunker Cheat Loader
 // @namespace    https://github.com/afkvido/krunker
+// @description  Free Krunker Hacks that actually work, and don't give you a virus!
 // @icon         https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU
 // @version      1.24
 // @author       gemsvido
