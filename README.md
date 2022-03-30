@@ -24,6 +24,7 @@ _____________
 17. Select the script: **Junker**.
 18. Krunker will reload.
 19. After it's done reloading, click **Junk** to open the hack menu.
+20. Congrats, you've found one of the only hacks that actually work and don't give you a virus.
 
 
 ## Ultimate Shaders
