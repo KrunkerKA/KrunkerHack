@@ -46,3 +46,28 @@ _____________
 7. Then click **Import**.
 8. You've succesfully made your graphics very fast, congrats! Your Render quality may drop because of this, however.
 
+
+
+# Q&A
+
+## Shaders/HUD
+
+#### I'm getting very poor FPS with the Ultimate Shaders
+Ultimate Shaders really is resource intensive, so I'd reccomend using Ultimate Performance if you're having FPS issues.
+<br/>
+
+
+## Hacks
+
+#### Are the hacks bannable if I'm logged into Krunker?
+If you're logged into a Krunker account, you can get your account and IP banned.
+<br/>
+
+
+#### Are the hacks bannable if I'm not logged into Krunker?
+If you're not logged into a Krunker account, you can get your IP banned.
+<br/>
+
+
+#### How do I evade the bans?
+It's possible to evade the bans by using a [VPN](https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd).
