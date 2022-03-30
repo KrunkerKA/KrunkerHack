@@ -11,7 +11,7 @@ _____________
 3. Install the ViolentMonkey extension on your second chrome profile ([ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag))
 4. Go here: https://github.com/afkvido/krunker/raw/main/hacks.user.js
 5. ViolentMonkey should redirect you to the userscript installation.
-6. Click **Confirm Installation**.
+6. Click **Confirm Installation**. ([Hack Source](https://github.com/y9x/userscripts))
 7. Click **Save and Close**.
 8. Open the **TouchVPN** extension
 9. Click **Connect**.
@@ -56,6 +56,10 @@ _____________
 Ultimate Shaders really is resource intensive, so I'd reccomend using Ultimate Performance if you're having FPS issues.
 <br/><br/><br/>
 
+#### Where's the source of the Shaders/HUD? Who made these?
+Shaders and HUD were designed by [gemsvidø](https://github.com/afkvido).
+These are just Krunker settings made in Krunker, just exported into json.
+<br/><br/><br/>
 
 ## Hacks
 
@@ -71,3 +75,10 @@ If you're not logged into a Krunker account, you can get your IP banned.
 
 #### How do I evade the bans?
 It's possible to evade the bans by using a [VPN](https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd).
+<br/><br/><br/>
+
+
+#### Where's the source of the hacks? Who made them?
+Hacks are made by [y9x](https://github.com/y9x).
+See this GitHub repository: https://github.com/y9x/userscripts
+<br/><br/><br/>
