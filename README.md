@@ -24,6 +24,25 @@ _____________
 16. Congrats, you've found one of the only hacks that actually work and don't give you a virus. ([Original](https://github.com/y9x/userscripts))
 17. Remember to ONLY use the hacks when your VPN IS ON. YOU CAN GET YOUR IP IPBANNED FROM KRUNKER IF YOU DON'T USE A VPN.
 
+## Sploit: A high fiber hack
+1. Make a second Chrome Profile ([Guide](https://www.techsolutions.support.com/how-to/how-to-create-and-switch-profiles-in-chrome-12564))
+2. Install a VPN extension on your second chrome profile ([TouchVPN](https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd))
+3. Install the ViolentMonkey extension on your second chrome profile ([ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag))
+4. Go here: https://github.com/afkvido/krunker/raw/main/hacks.user.js
+5. ViolentMonkey should redirect you to the userscript installation.
+6. Click **Confirm Installation**. ([Hack Source](https://github.com/afkvido/krunker#wheres-the-source-of-the-hacks-who-made-them))
+7. Click **Close**.
+8. Open the **TouchVPN** extension
+9. Click **Connect**, then wait until you're connected to the VPN.
+10. Now, go to Krunker. ([Krunker](https://krunker.io)) ([Krunker Unblocked](https://browserfps.com/))
+11. Click **Settings**.
+12. In the Settings menu, click **Cheats**.
+13. Select the script: **Sploit**.
+14. Krunker will reload.
+15. After it's done reloading, you should see a menu overlay on Krunker. Press **`C`** to show/hide the hack menu.
+16. Congrats, you've found one of the only hacks that actually work and don't give you a virus. ([Original](https://github.com/y9x/userscripts))
+17. Remember to ONLY use the hacks when your VPN IS ON. YOU CAN GET YOUR IP IPBANNED FROM KRUNKER IF YOU DON'T USE A VPN.
+
 ## Ultimate Shaders
 
 1. Go to [/ultimateshaders.json](https://github.com/afkvido/krunker/blob/main/ultimateshaders.json).
