@@ -9,23 +9,20 @@ _____________
 1. Make a second Chrome Profile ([Guide](https://www.techsolutions.support.com/how-to/how-to-create-and-switch-profiles-in-chrome-12564))
 2. Install a VPN extension on your second chrome profile ([TouchVPN](https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd))
 3. Install the ViolentMonkey extension on your second chrome profile ([ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag))
-4. Go to [/hacks.user.js](https://github.com/afkvido/krunker/blob/main/hacks.user.js).
-5. Click the **Copy** button
-7. Open the **ViolentMonkey** Extension
-8. Click the **`+`**     _(Create a new script)_
-9. Delete the empty userscript template 
-10. Paste the userscript that you copied in step 5
-11. Click **Save and Close**.
-12. Open the **TouchVPN** extension
-13. Click **Connect**.
-14. Now, go to Krunker. ([Krunker](https://krunker.io)) ([Krunker Unblocked](https://browserfps.com/))
-15. Click **Settings**.
-16. In the Settings menu, click **Cheats**.
-17. Select the script: **Junker**.
-18. Krunker will reload.
-19. After it's done reloading, click **Junk** to open the hack menu.
-20. Congrats, you've found one of the only hacks that actually work and don't give you a virus. ([Original](https://github.com/y9x/userscripts))
-21. Remember to ONLY use the hacks when your VPN IS ON. YOU CAN GET YOUR IP IPBANNED FROM KRUNKER IF YOU DON'T USE A VPN.
+4. Go here: https://github.com/afkvido/krunker/raw/main/hacks.user.js
+5. ViolentMonkey should redirect you to the userscript installation.
+6. Click **Confirm Installation**.
+7. Click **Save and Close**.
+8. Open the **TouchVPN** extension
+9. Click **Connect**.
+10. Now, go to Krunker. ([Krunker](https://krunker.io)) ([Krunker Unblocked](https://browserfps.com/))
+11. Click **Settings**.
+12. In the Settings menu, click **Cheats**.
+13. Select the script: **Junker**.
+14. Krunker will reload.
+15. After it's done reloading, click **Junk** to open the hack menu.
+16. Congrats, you've found one of the only hacks that actually work and don't give you a virus. ([Original](https://github.com/y9x/userscripts))
+17. Remember to ONLY use the hacks when your VPN IS ON. YOU CAN GET YOUR IP IPBANNED FROM KRUNKER IF YOU DON'T USE A VPN.
 
 ## Ultimate Shaders
 
