@@ -12,7 +12,7 @@ _____________
 4. Go to [/hacks.user.js](https://github.com/afkvido/krunker/blob/main/hacks.user.js).
 5. Click the **Copy** button
 7. Open the **ViolentMonkey** Extension
-8. Click the **+**     _(Create a new script)_
+8. Click the **`+`**     _(Create a new script)_
 9. Delete the empty userscript template 
 10. Paste the userscript that you copied in step 5
 11. Click **Save and Close**.
