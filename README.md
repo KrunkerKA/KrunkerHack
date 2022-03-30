@@ -25,7 +25,7 @@ _____________
 18. Krunker will reload.
 19. After it's done reloading, click **Junk** to open the hack menu.
 20. Congrats, you've found one of the only hacks that actually work and don't give you a virus.
-
+21. Remember to ONLY use the hacks when your VPN IS ON. YOU CAN GET YOUR IP IPBANNED FROM KRUNKER IF YOU DON'T USE A VPN.
 
 ## Ultimate Shaders
 
