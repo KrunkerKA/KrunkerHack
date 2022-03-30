@@ -20,4 +20,13 @@ _____________
 13. Click **Connect**.
 14. Now, go to Krunker. ([Krunker](https://krunker.io)) ([Krunker Unblocked](https://browserfps.com/))
 15. Click **Settings**.
-16. 
+16. In the Settings menu, click **Cheats**.
+17. Select the script: **Junker**.
+18. Krunker will reload.
+19. After it's done reloading, click **Junk** to open the hack menu.
+
+
+### Ultimate Shaders
+
+### Ultimate Performance
+
